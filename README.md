@@ -1,1 +1,3 @@
-# AOSCT_ex1_min
+﻿# AOSCT_ex1
+
+
