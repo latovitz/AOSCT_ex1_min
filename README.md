@@ -1,0 +1,1 @@
+# AOSCT_ex1_min
